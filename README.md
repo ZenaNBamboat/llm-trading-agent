@@ -160,19 +160,6 @@ This project uses **only free tools**:
 
 ### Alpaca Paper Trading (Optional)
 
-Only needed if you want to send simulated orders to Alpaca's paper trading API.
-
-1. Sign up free at [alpaca.markets](https://alpaca.markets)
-2. Get your Paper Trading API keys
-3. Add to `.env`:
-   ```
-   ALPACA_API_KEY=your-key
-   ALPACA_SECRET_KEY=your-secret
-   ALPACA_BASE_URL=https://paper-api.alpaca.markets
-   ```
-
-> **Note:** The agent works fully without Alpaca — it defaults to simulated execution.
-
 ---
 
 ## Data Sources
