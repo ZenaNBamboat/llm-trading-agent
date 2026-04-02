@@ -1,0 +1,11 @@
+headline,published_at,source,sentiment_label,conviction_score,confidence,rationale,engine
+"Morning Brief: Stocks roar back, plus our giant, action-packed Q1 roundup",2026-04-01T10:00:33+00:00,Yahoo Finance,POSITIVE,9,0.8599,"FinBERT strongly classifies this as positive market impact (conf=86%, gap=0.75).",finbert
+Better Stock to Buy Right Now: Costco vs. Amazon,2026-04-01T08:30:00+00:00,Motley Fool,NEUTRAL,9,0.8393,"FinBERT strongly classifies this as neutral market impact (conf=84%, gap=0.70).",finbert
+"How Much Would $1,000 Invested in Costco 10 Years Ago Be Worth Today?",2026-04-01T06:05:00+00:00,Motley Fool,NEUTRAL,10,0.9452,"FinBERT strongly classifies this as neutral market impact (conf=95%, gap=0.91).",finbert
+Why Celsius (CELH) Stock Is Up Today,2026-04-01T03:49:19+00:00,StockStory,NEUTRAL,8,0.7384,"FinBERT strongly classifies this as neutral market impact (conf=74%, gap=0.50).",finbert
+GEN Restaurant Group Inc (GENK) Q4 2025 Earnings Call Highlights: Expansion and Challenges Amid ...,2026-04-01T03:00:25+00:00,GuruFocus.com,POSITIVE,9,0.8716,"FinBERT strongly classifies this as positive market impact (conf=87%, gap=0.76).",finbert
+Consumer Reports Reveals The Most And Least Expensive Grocery Stores In The US,2026-03-31T22:30:00+00:00,Money Digest,NEUTRAL,7,0.5919,"FinBERT moderately classifies this as neutral market impact (conf=59%, gap=0.34).",finbert
+"Dow Jones Drug Giant Merck, Costco Approach New Buy Points",2026-03-31T18:42:59+00:00,Investor's Business Daily,NEUTRAL,6,0.6334,"FinBERT moderately classifies this as neutral market impact (conf=63%, gap=0.28).",finbert
+"Willmeng starts $7B Phoenix mixed-use project, companion to TSMC site",2026-03-31T17:27:40+00:00,Construction Dive,NEUTRAL,9,0.8052,"FinBERT strongly classifies this as neutral market impact (conf=81%, gap=0.62).",finbert
+Jim Cramer on Costco: “This One Is What You Buy in This Environment”,2026-03-31T16:36:02+00:00,Insider Monkey,NEUTRAL,10,0.9281,"FinBERT strongly classifies this as neutral market impact (conf=93%, gap=0.87).",finbert
+Costco Is Opening Its First Stand-Alone Gas Station This Summer,2026-03-31T15:29:54+00:00,Cheapism,NEUTRAL,9,0.8155,"FinBERT strongly classifies this as neutral market impact (conf=82%, gap=0.64).",finbert
