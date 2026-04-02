@@ -448,9 +448,6 @@ llm_trading_agent/
 
 ---
 
-## Course Alignment
-
-This project applies concepts from MMAI 5090:
 
 - **Agentic AI Architecture:** Multi-agent orchestration with specialist agents, manager coordination, governance logging, and risk guardrails
 - **Enterprise AI Design:** Modular, reproducible, explainable pipeline with clear separation of concerns
